@@ -65,9 +65,9 @@ Example #2: Define the color scheme only in one profile.
 
 ```json
 {
-    "name": "Windows PowerShell",
-    "commandline": "powershell.exe",
-    "hidden": false,
-    "colorScheme": "Omni"
-},
+  "name": "Windows PowerShell",
+  "commandline": "powershell.exe",
+  "hidden": false,
+  "colorScheme": "Omni"
+}
 ```
