@@ -45,7 +45,7 @@ In your **settings.json** file, find the **schemes** section and paste the conte
 
 ```
 
-Note: Issue [Border color still not supported to Windows Terminal](https://github.com/microsoft/terminal/issues/3746)
+Note: Issue [Border color still not supported](https://github.com/microsoft/terminal/issues/3746)
 
 ## Activate
 
