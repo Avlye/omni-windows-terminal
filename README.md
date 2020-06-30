@@ -45,6 +45,8 @@ In your **settings.json** file, find the **schemes** section and paste the conte
 
 ```
 
+Note: Issue [Border color still not supported to Windows Terminal](https://github.com/microsoft/terminal/issues/3746)
+
 ## Activate
 
 Now that the color scheme is defined, find your profiles section and add Omni as your default color scheme. Or alternative you can enable only in WSL.
