@@ -37,6 +37,9 @@ In your **settings.json** file, find the **schemes** section and paste the conte
         "brightPurple": "#ff92d0",
         "brightCyan": "#aa91e3",
         "brightWhite": "#e6e6e6",
+
+        "cursorColor": "#f8f8f2",
+        "selectionBackground": "#483C67"
     }
 ]
 
