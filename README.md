@@ -15,7 +15,6 @@ In your **settings.json** file, find the **schemes** section and paste the conte
 ```json
 
 "schemes": [
-    // Omni Color Theme
     {
         "name": "Omni",
 
@@ -52,7 +51,6 @@ Example #1: Define as your default color scheme.
 ```json
 "profiles": {
     "defaults": {
-      // Put settings here that you want to apply to all profiles.
       "colorScheme": "Omni"
     },
 }
@@ -62,8 +60,6 @@ Example #2: Define the color scheme only in one profile.
 
 ```json
 {
-    // Make changes here to the powershell.exe profile.
-    // other settings
     "name": "Windows PowerShell",
     "commandline": "powershell.exe",
     "hidden": false,
