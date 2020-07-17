@@ -6,6 +6,8 @@ Omni is everywhere
 
 **NOTE 2: This theme works better with WSL Zsh if you want to know in how to customize your WSL terminal, look at [Terminal com Oh My Zsh, Spaceship, Dracula e mais - PT-BR](https://blog.rocketseat.com.br/terminal-com-oh-my-zsh-spaceship-dracula-e-mais/)**
 
+![Preview of Omni Windows Terminal Theme](https://raw.githubusercontent.com/Avlye/omni-windows-terminal/master/windows-terminal.png)
+
 ## Install
 
 Start Windows Terminal and click on down arrow symbol from menu bar and select Settings option, or use **Ctrl+,** shortcut.
