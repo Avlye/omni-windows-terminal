@@ -2,9 +2,9 @@
 
 Omni is everywhere
 
-**NOTE: This is an unnofficial theme for Windows Terminal, inspired by [hyper-omni](https://github.com/getomni/hyper-omni)**
-
-**NOTE 2: This theme works better with WSL Zsh if you want to know in how to customize your WSL terminal, look at [Terminal com Oh My Zsh, Spaceship, Dracula e mais - PT-BR](https://blog.rocketseat.com.br/terminal-com-oh-my-zsh-spaceship-dracula-e-mais/)**
+**NOTES:**
+- This is a Windows Terminal Theme inspired by [hyper-omni](https://github.com/getomni/hyper-omni)
+- This theme works better with WSL Zsh if you want to know in how to customize your WSL terminal, look at [Terminal com Oh My Zsh, Spaceship, Dracula e mais - PT-BR](https://blog.rocketseat.com.br/terminal-com-oh-my-zsh-spaceship-dracula-e-mais/)**
 
 ![Preview of Omni Windows Terminal Theme](https://raw.githubusercontent.com/Avlye/omni-windows-terminal/master/windows-terminal.png)
 
